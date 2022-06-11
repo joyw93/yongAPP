@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#28D79A</color>
+    <color name="colorPrimaryBackGround">#DEF9ED</color>
+    <color name="colorPrimaryDark">#b1b1b1</color>
+    <color name="colorAccent">#00B262</color>
+    <color name="colorSecond">#E2F4FF</color>
+    <color name="colorLightGray">#b1b1b1</color>
+    <color name="colorPink">#D72865</color>
+    <color name="today">#4b82ff</color>
+    <color name="greyed_out">#c7c7c7</color>
+</resources>
